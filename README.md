@@ -1,2 +1,2 @@
 # python-project
-This will be a repository for learning python and encouring newbies to learn python along with Flask APIs
+This will be a repository for learning python and encouraging newbies to learn python along with Flask APIs
